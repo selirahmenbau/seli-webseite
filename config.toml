@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "de-DE"
+title = "SeLi Rahmenbau"
+
+theme = "minimO"
+
+[params.info]
+description = "SeLi Rahmenbau aus Dörrenbach"
+title404 = "Hier gibt es nichts zu sehen."
+
+[params.copyright]
+prefix = ""
+holder = "Sebastian Lindler"
+startYear = "2018"
+suffix = ""
