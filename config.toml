@@ -151,6 +151,12 @@ weight = 20
 identifier = "impressum"
 url = "/impressum"
 
+[[menu.main]]
+name = "Kontakt"
+weight = 30
+identifier = "kontakt"
+url = "/kontakt"
+
 [blackfriday]
 hrefTargetBlank = true
 
