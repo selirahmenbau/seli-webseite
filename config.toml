@@ -1,4 +1,4 @@
-baseURL = "http://www.seli-rahmenbau.de"
+baseURL = "https://selirahmenbau.github.io"
 title = "SeLi Rahmenbau"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
