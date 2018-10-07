@@ -20,5 +20,5 @@ besucht mich ....vorher könnt Ihr anrufen oder auch nicht...
 da wir keine Klingel haben (werden), müßt Ihr Euch rein trauen.
 
 ## Anfahrt:
-{{< osm 0DPZjAhNx- >}}
+{{< osm "bbox=7.95686960220337%2C49.08941710551763%2C7.9747867584228525%2C49.095648869159454&amp;layer=mapnik" >}}
 
