@@ -1,17 +1,8 @@
-baseurl = "https://username.github.io"
+baseurl = "https://vorschau.seli-rahmenbau.de"
 DefaultContentLanguage = "de"
-#DefaultContentLanguage = "ja"
 title = "SeLi Rahmenbau"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-#pygmentsStyle = "trac"
-#pygmentsUseClasses = true
-#pygmentsCodeFences = true
-#pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
 
 [Params]
   homeTitle = "SeLi Rahmenbau" # Set a different text for the header on the home page
@@ -27,47 +18,15 @@ metaDataFormat = "yaml"
   socialShare = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
-
 [Author]
   name = "Sebastian Lindler"
   website = "https://seli-rahmenbau.de"
   email = "seli-online@gmx.de"
-#  facebook = "username"
-#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-#  github = "username"
-#  gitlab = "username"
-#  bitbucket = "username"
-#  twitter = "username"
-#  reddit = "username"
-#  linkedin = "username"
-#  xing = "username"
-#  stackoverflow = "users/XXXXXXX/username"
-#  snapchat = "username"
-#  instagram = "username"
-#  youtube = "user/username" # or channel/channelname
-#  soundcloud = "username"
-#  spotify = "username"
-#  bandcamp = "username"
-#  itchio = "username"
-#  vk = "username"
-#  paypal = "username"
-#  telegram = "username"
 
 [[menu.main]]
     name = "Neues"
     url = "blog"
-    weight = 1
+    weight = 0
 
 [[menu.main]]
     identifier = "rahmenbau"
