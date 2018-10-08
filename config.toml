@@ -87,6 +87,11 @@ metaDataFormat = "yaml"
     weight = 2
 
 [[menu.main]]
+    name = "Kontakt"
+    url = "page/kontakt"
+    weight = 3
+
+[[menu.main]]
     parent = "rahmenbau"
     name = "Kurse"
     url = "page/rahmenbau/kurse"
