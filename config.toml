@@ -26,7 +26,7 @@ metaDataFormat = "yaml"
 [[menu.main]]
     name = "Neues"
     url = "blog"
-    weight = 0
+    weight = 1
 
 [[menu.main]]
     identifier = "rahmenbau"
