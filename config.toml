@@ -70,29 +70,24 @@ metaDataFormat = "yaml"
     weight = 1
 
 [[menu.main]]
-    name = "Impressum"
-    url = "page/impressum/"
-    weight = 3
-
-[[menu.main]]
     identifier = "rahmenbau"
     name = "Rahmenbau"
     weight = 2
 
 [[menu.main]]
     parent = "rahmenbau"
-    name = "Stahl"
-    url = "rahmenbau/stahl"
+    name = "Edelstahl"
+    url = "page/rahmenbau/edelstahl"
     weight = 1
 
 [[menu.main]]
     parent = "rahmenbau"
-    name = "Edelstahl"
-    url = "rahmenbau/edelstahl"
+    name = "Stahl"
+    url = "page/rahmenbau/stahl"
     weight = 2
 
 [[menu.main]]
     parent = "rahmenbau"
     name = "Kurse"
-    url = "rahmenbau/kurse"
+    url = "page/rahmenbau/kurse"
     weight = 3
