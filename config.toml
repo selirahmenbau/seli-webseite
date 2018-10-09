@@ -1,4 +1,4 @@
-baseurl = "https://vorschau.seli-rahmenbau.de"
+baseurl = "https://seli-rahmenbau.de"
 DefaultContentLanguage = "de"
 title = "SeLi Rahmenbau"
 theme = "beautifulhugo"
