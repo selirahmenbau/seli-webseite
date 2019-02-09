@@ -12,7 +12,7 @@
 
         <div class="posts-list">
           {{ $pag := .Paginate (where .Data.Pages "Type" "blog") }}
-          {{ range $pag.Pages }}
+          {{ range $pag.Pages.ByDate }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
                 <h2 class="post-title">{{ .Title }}</h2>
