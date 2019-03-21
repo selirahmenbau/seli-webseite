@@ -2,7 +2,7 @@
 title: "Nummer 5 lebt!"
 date: 2019-02-09:13:42+02:00
 draft: false
-tags: ["rahmenbau", "cargo", ]
+tags: ["rahmenbau", "cargo", "rohloff", "bafang ultra", "lastenrad bonjohn"]
 ---
 
 Details folgen. Hier schon mal ein paar Bilder! :)
