@@ -6,7 +6,7 @@ draft: false
 
 Auch in 2020 könnt ihr in meiner Werkstatt in Dörrenbach wieder fleißig
 sägen, feilen und löten. Es gibt noch freie Termine für Rahmenbaukurse
-für je einen Kunden in KW18 und KW29. 
+für je einen Kunden in KW18, KW29 und KW 34. 
 
 Ich freue mich von euch zu hören!
 
