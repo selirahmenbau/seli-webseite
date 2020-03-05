@@ -24,14 +24,19 @@ metaDataFormat = "yaml"
   email = "seli-online@gmx.de"
 
 [[menu.main]]
+    name = "Altes"
+    url = "https://selirahmenbau.github.io/seli-alt.github.io/index.html"
+    weight = 1
+
+[[menu.main]]
     name = "Neues"
     url = "blog"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     identifier = "rahmenbau"
     name = "Rahmenbau"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "rahmenbau"
@@ -46,12 +51,13 @@ metaDataFormat = "yaml"
     weight = 2
 
 [[menu.main]]
-    name = "Kontakt"
-    url = "page/kontakt"
-    weight = 3
-
-[[menu.main]]
     parent = "rahmenbau"
     name = "Kurse"
     url = "page/rahmenbau/kurse"
     weight = 3
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "page/kontakt"
+    weight = 4
+
