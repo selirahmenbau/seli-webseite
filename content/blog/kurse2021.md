@@ -1,9 +1,8 @@
 ---
-title: "Neue Kurse erst ab 2021"
-date: 2020-10-03T11:05:36+01:00
+title: "Kurse wieder ab 2021"
+date: 2020-10-03T12:20:19+02:00
 draft: false
 ---
-
 Alle Rahmenbaukurse in 2020 sind nun ausgebucht. Ab März 2021 habe
 ich wieder freie Termine.
 
