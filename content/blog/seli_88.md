@@ -11,11 +11,18 @@ Nun ist das SeLi 88 aus meiner Werkstatt gerollt:
 Tubeless Reifen und Nasslackierung in/auf einem Columbus HSS Spirit Geröhr mit Carbon Gabel. Seht selbst:
 
 <img src="/rahmen/seli_88/IMG_0226.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0227.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0231.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0234.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0273.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0277.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0279.jpg" />
+<br/>
 <img src="/rahmen/seli_88/IMG_0281.jpg" />
 
