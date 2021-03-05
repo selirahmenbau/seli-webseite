@@ -1,6 +1,6 @@
 ---
 title: "Nur noch 2 freie Kurse in 2021"
-date: 2021-02-22T21:10:26+01:00
+date: 2021-03-05T21:10:26+01:00
 draft: false
 tags: ["rahmenbau", "kurs"]
 ---

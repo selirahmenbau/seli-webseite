@@ -1,6 +1,6 @@
 ---
 title: "SeLi 88"
-date: 2021-03-05T07:49:32+01:00
+date: 2021-03-03T07:49:32+01:00
 draft: false
 tags: ["Rahmenbau", "Columbus", "Gravel"]
 ---

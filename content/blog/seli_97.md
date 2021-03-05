@@ -1,5 +1,5 @@
 ---
-title: "Seli_97"
+title: "SeLi 97"
 date: 2021-03-04T20:47:35+01:00
 draft: false
 tags: ["Rahmenbau", "Edelstahl", "stainless", "Rohloff", "Riemenantrieb"]
