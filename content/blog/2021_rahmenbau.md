@@ -5,9 +5,9 @@ draft: false
 tags: ["rahmenbau", "kurs"]
 ---
 
-Das Jahr 2021 ist noch jung, aber es sind nur noch 2 Termine frei für Rahmenbaukurse bei mir.
+Das Jahr 2021 ist zwar noch nicht mal rum, aber es ist nur noch 1 Termin frei für einen Rahmenbaukurs bei mir.
 
-Der erste Slot ist in KW 17. Der zweite irgendwann im Herbst. Falls ihr einen der freien Termine buchen wollt, meldet euch einfach bei mir!
+Der erste Slot ist in KW 21. Falls den einen Termin buchen wollt, meldet euch einfach bei mir!
 
 Gruss,
 SeLi
