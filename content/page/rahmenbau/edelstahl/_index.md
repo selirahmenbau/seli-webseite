@@ -10,7 +10,7 @@ draft: false
 
 #### Rahmen:
 
-* ein Rahmen aus stainless steel, Reynolds 953 oder KVAStainless MS3, startet bei 1800,-€
+* ein Rahmen aus stainless steel, Reynolds 953 oder KVAStainless MS3, startet bei 2000,-€
 * dieser ist gemufft oder muffenlos gebaut, nur mit Silber gelötet
 * hat ein BSA Tretlager,
 * Canti oder Disc Aufnahmen
@@ -20,7 +20,7 @@ draft: false
 
 * innenverlegte Züge: 150,-€/Zug
 * Coupler für Riementrieb 125,-€
-* SeLi Positiv Logo 200 €/Seite
+* SeLi Positiv Logo (Steuerkopf) 150 €
 * Custom Ausfaller (s.SeLi 26),Tretlager (s.SeLi 5), ... ab 380,-€
 * Slider Ausfaller ab 150,-€
 * dreilagig laminierter Steuerkopf (s.SeLi 29) ab 1000,-€  - je nach Aufwand mehr oder weniger (1", 11/8", 44er oder ein 34/44, also 11/8" auf 11/2")  der Fantasie sind hier kaum Grenzen gesetzt - überrascht mich !
