@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Kurse
-Ein 5-tägiger Kurs kostet 1350€ incl. Material (für einen rohen Rahmen
+Ein 5-tägiger Kurs kostet 1500€ incl. Material (für einen rohen Rahmen
 ohne Gabel). Eine Verlängerung um den Samstag macht 100€ Aufpreis.
 
 <img src="kurs_3.jpg"/>
