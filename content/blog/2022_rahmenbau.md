@@ -1,6 +1,6 @@
 ---
 title: "Termine für Rahmenbaukurse in 2022"
-date: 2022-02-02:10:26+01:00
+date: 2022-02-02T12:04:12+02:00
 draft: false
 tags: ["rahmenbau", "kurs"]
 ---
