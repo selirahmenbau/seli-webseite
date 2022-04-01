@@ -7,7 +7,7 @@ tags: ["rahmenbau", "kurs"]
 
 Draußen ist es noch kalt und ungemütlich, aber die Rahmenbau-Saison 2022 ist bereits im
 vollen Gange. Wer sich noch einen feinen Rahmen bei mir im Kurs bauen möchte, muss sich
-sputen: In KW 12 und KW 21 ist jeweils noch ein Platz frei. Ab Juli habt ihr dann wieder
+sputen: In KW 21 und KW 32 ist jeweils noch ein Platz frei. Ab Mai habt ihr dann wieder
 viel Freiraum um mir Termine vorzuschlagen. :)
 
 Gruss,
